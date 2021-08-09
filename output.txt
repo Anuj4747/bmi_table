@@ -1,0 +1,7 @@
+56.14		 Very severely obese		 Very high risk
+52.80		 Very severely obese		 Very high risk
+42.78		 Very severely obese		 Very high risk
+37.35		 Severely obese				 High risk
+46.67		 Very severely obese		 Very high risk
+49.10		 Very severely obese		 Very high risk
+Total count of overweight people 0
